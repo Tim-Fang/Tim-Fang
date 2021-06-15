@@ -11,5 +11,5 @@
 
 My personal [website](https://timfang.xyz)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tim-Fang&show_icons=true&icon_color=4C97FF&text_color=C9D1D9&bg_color=0D1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Fang&hide=actionscript,haxe&show_icons=true&icon_color=4C97FF&text_color=C9D1D9&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tim-Fang&show_icons=true&icon_color=4C97FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Fang&layout=compact&show_icons=true&icon_color=4C97FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
