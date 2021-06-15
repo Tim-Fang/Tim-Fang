@@ -10,3 +10,5 @@
 - Will do some Interesting things when I free.
 
 My personal [website](https://timfang.xyz)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tim-Fang&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff" />
