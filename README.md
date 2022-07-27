@@ -5,9 +5,9 @@
 
 - A senior high school student from Zhejiang, China 🇨🇳.
 
-- I'm not good at all the languages, even Chinese (XD
+- I'm not good at all languages, even Chinese (XD
 
-- Will do some Interesting things when I free.
+- Will do something interesting when I'm free.
 
 Working on **[GitScratch](https://github.com/UniScratch/gitscratch-frontend/)**, a **powerful and useful** secondary development version of scratch
 
